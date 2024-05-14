@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">game_app</string>
+    <string name="player1">Player-1</string>
+    <string name="player2">Player-2</string>
+    <string name="username">Username</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Tictactoe">Tic-tac-toe</string>
+</resources>
